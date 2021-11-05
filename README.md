@@ -1,2 +1,2 @@
 # aile_dicare
- Repositoire pour leProjet INtégrateiur IV
+ Repositoire pour le projet intégrateur IV
