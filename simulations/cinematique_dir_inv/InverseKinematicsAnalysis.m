@@ -9,7 +9,7 @@ clear all
 %% Mobile reference frame is set at center of mobile plate
 % z: distance between both platform centers (mobile center is always
 % directly above fixed center)
-% phi: roll angle
+% phi: tilt angle
 % theta: pitch angle
 
 
