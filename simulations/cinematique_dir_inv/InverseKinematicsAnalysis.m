@@ -13,7 +13,7 @@ clear all
 % theta: pitch angle
 
 
-%% Example comment
+%% Example comment - V2
 
 
 syms z theta phi 
