@@ -13,6 +13,9 @@ clear all
 % theta: pitch angle
 
 
+%% Example comment
+
+
 syms z theta phi 
 
 R_xi_phi = Make_R(1, -phi)
